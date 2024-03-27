@@ -1,0 +1,27 @@
+@media(max-width:700px){
+    .head_part_2{
+        right:0;
+    }
+    .logo_cont h3{
+        font-size:max(3.9vw,20px);
+    }
+    .logo_cont{
+        width: 100%;
+        align-items: center;
+        margin-left: 0;
+
+    }
+    .head_part_1{
+        width: 62%;
+    }
+}
+
+@media(max-width:760px){
+    .body_part_2 h3{
+        font-size:3.5vw;
+    }
+    .sub_box_1 p{
+        margin-bottom: 5px;
+    }
+    
+}
